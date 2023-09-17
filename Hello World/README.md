@@ -2,11 +2,7 @@
 
 This is a very basic Hello World program written in Python. I made this to make sure that VS Code, GitHub, and Python are integrated together correctly.
 
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
-
+[Hello World Video](https://youtu.be/FPw6oajNRuE)
 
 # Development Environment
 
