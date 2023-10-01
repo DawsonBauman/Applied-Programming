@@ -1,0 +1,14 @@
+C:\Users\dawso\OneDrive\Documents\Programming Projects\HomeworkTracker\bin\Debug\net7.0\HomeworkTracker.exe
+C:\Users\dawso\OneDrive\Documents\Programming Projects\HomeworkTracker\bin\Debug\net7.0\HomeworkTracker.deps.json
+C:\Users\dawso\OneDrive\Documents\Programming Projects\HomeworkTracker\bin\Debug\net7.0\HomeworkTracker.runtimeconfig.json
+C:\Users\dawso\OneDrive\Documents\Programming Projects\HomeworkTracker\bin\Debug\net7.0\HomeworkTracker.dll
+C:\Users\dawso\OneDrive\Documents\Programming Projects\HomeworkTracker\bin\Debug\net7.0\HomeworkTracker.pdb
+C:\Users\dawso\OneDrive\Documents\Programming Projects\HomeworkTracker\obj\Debug\net7.0\HomeworkTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawso\OneDrive\Documents\Programming Projects\HomeworkTracker\obj\Debug\net7.0\HomeworkTracker.AssemblyInfoInputs.cache
+C:\Users\dawso\OneDrive\Documents\Programming Projects\HomeworkTracker\obj\Debug\net7.0\HomeworkTracker.AssemblyInfo.cs
+C:\Users\dawso\OneDrive\Documents\Programming Projects\HomeworkTracker\obj\Debug\net7.0\HomeworkTracker.csproj.CoreCompileInputs.cache
+C:\Users\dawso\OneDrive\Documents\Programming Projects\HomeworkTracker\obj\Debug\net7.0\HomeworkTracker.dll
+C:\Users\dawso\OneDrive\Documents\Programming Projects\HomeworkTracker\obj\Debug\net7.0\refint\HomeworkTracker.dll
+C:\Users\dawso\OneDrive\Documents\Programming Projects\HomeworkTracker\obj\Debug\net7.0\HomeworkTracker.pdb
+C:\Users\dawso\OneDrive\Documents\Programming Projects\HomeworkTracker\obj\Debug\net7.0\HomeworkTracker.genruntimeconfig.cache
+C:\Users\dawso\OneDrive\Documents\Programming Projects\HomeworkTracker\obj\Debug\net7.0\ref\HomeworkTracker.dll
